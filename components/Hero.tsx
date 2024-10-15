@@ -13,7 +13,7 @@ export function Hero() {
       {/* Hide this paragraph on screens smaller than 'md' */}
       <p className="hidden md:block max-w-xl mx-auto text-sm md:text-lg text-neutral-700 dark:text-neutral-400 text-center">
         Get the best advice from our experts, including veterans in the industry,
-        peers, mentors, take your coding & netoworking skills to the next level.
+        peers, mentors, take your coding & networking skills to the next level.
       </p>
     </BackgroundLines>
   );
